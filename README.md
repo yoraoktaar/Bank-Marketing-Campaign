@@ -22,7 +22,7 @@ Untuk mencapai tujuan tersebut, pendekatan analitik yang digunakan meliputi:
 - Identifikasi pola karakteristik nasabah yang menerima atau menolak penawaran deposito.
 - Objektif: Pembangunan model klasifikasi machine learning untuk memprediksi kemungkinan nasabah akan menerima penawaran sebelum dilakukan kontak
 
-<span style="font-size:20px; font-family: monospace;">`2. Evaluasi Metrik`</span>
+<span style="font-size:20px; font-family: monospace;">`5. Evaluasi Metrik`</span>
 
 Karena tujuan utama adalah mengidentifikasi nasabah yang akan melakukan deposito berjangka, maka target adalah sebagai berikut:
 - 0 (no) untuk tidak deposit 
