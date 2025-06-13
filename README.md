@@ -1,4 +1,4 @@
-# Bank-Marketing-Campaign 🏦💱💳🏧
+# Bank Marketing Campaign 🏦💱💳🏧
 
 ## Pemahaman Bisnis
 
