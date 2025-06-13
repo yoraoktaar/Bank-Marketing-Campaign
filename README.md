@@ -119,7 +119,7 @@ Tabel Perbandingan Sebelum vs Sesudah Pakai Model
 | Nasabah Terkonversi (TP) | 20 orang        | 15 orang         |
 | Total Revenue            | Rp2.000.000     | Rp1.500.000      |
 | **Profit Bersih**        | **Rp1.000.000** | **Rp1.200.000**  |*  |
-     |
+
 
 <span style="font-size:20px; font-family: monospace;">`Recomendation`</span>
 #### Rekomendasi Strategis Kampanye Deposito
@@ -173,3 +173,12 @@ untuk **retargeting** kampanye berikutnya
 | ----- | --- | ------- | -------- | ----- | ------------ | ---------------- | ------------- | ---------------- | -------------- | ----------------- | ---------------------- | ---------------- | ----------------------- | --------------------- |
 | 0     | 55  | 3662    | 2        | -1    | 1            | 0                | 0             | 1                | 5              | 0                 | 0                      | 2                | 0                       | 0                     |
 | 1     | 39  | -3058   | 60       | -1    | 6            | 1                | 1             | 1                | 3              | 0                 | 1                      | 3                | 0                       | 0                     |
+
+Probabilitas: [[0.59664646 0.40335354]
+ [0.80745446 0.19254554]]
+Predict class : [1 0]
+
+Data Pelanggan 1: Kemungkinan besar akan membuka deposit (yes)
+Data Pelanggan 2: Kemungkinan besar tidak akan membuka deposit (no)
+
+### Terima kasih!
