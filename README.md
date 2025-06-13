@@ -1,6 +1,6 @@
 # Bank Marketing Campaign 🏦💱💳🏧
 
-## Pemahaman Bisnis
+## Business Understanding
 
 <span style="font-size:20px; font-family: monospace;">`1. Latar Belakang`</span>
 
@@ -51,7 +51,7 @@ Karena tujuan utama adalah mengidentifikasi nasabah yang akan melakukan deposito
 | **poutcome** | Hasil dari kampanye pemasaran sebelumnya                               |
 | **deposit**  | Apakah nasabah melakukan deposito atau tidak (target: ya atau tidak)   |
 
-## Business Understanding
+## Business Conclusion
 
 <span style="font-size:20px; font-family: monospace;">`Counclusion`</span>
 
